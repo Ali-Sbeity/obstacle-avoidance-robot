@@ -8,8 +8,11 @@ This project is an arduino based obstacle avoidance robot that uses an HC-SR04 u
 
 This project is part of my level 1 Arduino and Robotics course designed for beginners.
 
-### Source code: [obstacle-avoidance-robot.ino](obstacle-avoiding-robot.ino)
+### Source code:
+[obstacle-avoidance-robot.ino](obstacle-avoiding-robot.ino)
 
-### Circuit schematic: [schematic.jpg](schematic.jpg)
+### Circuit schematic:
+[schematic.jpg](schematic.jpg)
 
-### Project video: [LinkedIn](https://www.linkedin.com/posts/ali-sbeity-r_arduino-robotics-electronics-ugcPost-7489148573285150721-hBk9/?utm_source=share&utm_medium=member_android&rcm=ACoAAGUK5TkB6mFIkhRXEggy5uv9bPej4WMnw2c)
+### Project video:
+[LinkedIn](https://www.linkedin.com/posts/ali-sbeity-r_arduino-robotics-electronics-ugcPost-7489148573285150721-hBk9/?utm_source=share&utm_medium=member_android&rcm=ACoAAGUK5TkB6mFIkhRXEggy5uv9bPej4WMnw2c)
