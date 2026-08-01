@@ -12,7 +12,7 @@ Servo radarServo;
 const int trigPin = 5;
 const int echoPin = 4;
 
-const int servoPin = 9;
+const int servoPin = 3;
 
 const int in1 = 10;
 const int in2 = 9;
