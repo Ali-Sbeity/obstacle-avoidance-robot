@@ -29,7 +29,7 @@ bool robotOn = false;
 int lastButtonState = LOW;
 
 int obstacleDistance = 20;
-int forwardSpeed = 70;
+int forwardSpeed = 80;
 int turnSpeed = 60;
 
 int leftDistance = 0;
