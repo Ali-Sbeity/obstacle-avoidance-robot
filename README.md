@@ -10,6 +10,6 @@ This project is part of my level 1 Arduino and Robotics course designed for begi
 
 ### Source code: [obstacle-avoidance-robot.ino](obstacle-avoiding-robot.ino)
 
-### Circuit schematic: [schematic.jpg]()
+### Circuit schematic: [schematic.jpg](schematic.jpg)
 
 ### Project video: [LinkedIn]()
