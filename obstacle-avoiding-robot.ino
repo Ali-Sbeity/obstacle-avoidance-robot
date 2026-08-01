@@ -39,7 +39,7 @@ void setup()
 {
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
-  pinMode(buttonPin, INPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
   pinMode(statusLed, OUTPUT);
   pinMode(in1, OUTPUT);
   pinMode(in2, OUTPUT);
