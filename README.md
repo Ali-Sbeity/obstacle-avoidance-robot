@@ -12,4 +12,4 @@ This project is part of my level 1 Arduino and Robotics course designed for begi
 
 ### Circuit schematic: [schematic.jpg](schematic.jpg)
 
-### Project video: [LinkedIn]()
+### Project video: [LinkedIn](https://www.linkedin.com/posts/ali-sbeity-r_arduino-robotics-electronics-ugcPost-7489146505979813888-z7na/?utm_source=share&utm_medium=member_android&rcm=ACoAAGUK5TkB6mFIkhRXEggy5uv9bPej4WMnw2c)
