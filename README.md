@@ -20,4 +20,4 @@ Note: A separate 5V regulator (such as a buck converter) could be used for the s
 
 ## Project video: 
 
-[likedin](https://www.linkedin.com/posts/ali-sbeity-robotics_arduino-robotics-electronics-activity-7489148604708802560-3sr_?utm_source=share&utm_medium=member_android&rcm=ACoAAGUK5TkB6mFIkhRXEggy5uv9bPej4WMnw2c)
+[video.mp4](video.mp4)
