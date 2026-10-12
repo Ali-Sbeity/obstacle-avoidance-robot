@@ -38,6 +38,4 @@ Note: A separate 5V regulator (such as a buck converter) could be used for the s
 
 ## Project video: 
 
-[video.mp4](video.mp4) 
-
-[YouTube](https://youtube.com/shorts/ZcSxQrTm-8I?si=mGbtV4SB16S39HmF)
+[YouTube](https://youtu.be/fxdlWsG-Lgs?si=Z8PApyfEAqyzwXW-)
