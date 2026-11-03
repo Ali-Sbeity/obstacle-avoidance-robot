@@ -31,8 +31,6 @@ Note: A separate 5V regulator (such as a buck converter) could be used for the s
 
 ## Circuit schematic: 
 
-[schematic.fzz](schematic.fzz) 
-
 [schematic.png](schematic.png)
 
 
